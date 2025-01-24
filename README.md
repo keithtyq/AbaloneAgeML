@@ -1,4 +1,4 @@
-#AbaloneAgeML
+# AbaloneAgeML
 This project focuses on analyzing and predicting the age of abalones using physical measurements from the Abalone Dataset. The primary objective is to process and explore the dataset, then apply various machine learning models for regression and classification tasks. The key target variable, Rings, is used to estimate the age of abalones with the formula:
 Age = Rings + 1.5 years
 
